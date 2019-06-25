@@ -1,6 +1,6 @@
-#Associate level technical test
+# Associate level technical test
 
-##How to run it
+## How to run it
 
 1. Run spring-boot:run on your terminal
 2. Open Postman and send GET request to: [localhost:8080/exchange/gbp-to-usd/VALUE](localhost:8080/exchange/gbp-to-usd/VALUE)
